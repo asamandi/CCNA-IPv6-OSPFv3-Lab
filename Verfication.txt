@@ -1,0 +1,3 @@
+show ipv6 interface brief
+show ipv6 ospf neighbor
+show ipv6 route

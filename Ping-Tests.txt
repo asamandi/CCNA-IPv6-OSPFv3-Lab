@@ -1,0 +1,9 @@
+From PC1:
+ping 2001:DB8:3:3::10
+
+From PC2:
+ping 2001:DB8:1:1::10
+
+From R1:
+ping 2001:DB8:23:23::3
+ping 2001:DB8:3:3::10
